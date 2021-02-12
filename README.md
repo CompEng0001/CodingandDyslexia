@@ -9,6 +9,7 @@ This repo is collate coding support for those who have neurodiversity (dyslexia,
  - [Why dyslexics make good coders](https://www.bcs.org/content-hub/why-dyslexics-make-good-coders/#:~:text=Thus%2C%20dyslexics%20make%20great%20system,and%20notation%20is%20totally%20predictable.) [Accessed: 2021-02-12]
  - [Supporting Dyslexia in the Programming Classroom](https://www.sciencedirect.com/science/article/pii/S1877050914000489) [Accessed: 2021-02-12]
  - [Dyslexia and learning computer programming](https://www.tandfonline.com/doi/full/10.11120/ital.2004.03020005) [Accessed: 2021-02-12]
+ - [The Dyslexic Programmer](https://blog.bethcodes.com/the-dyslexic-programmer)
  
 ## Actual assistive technologies / techniques
  - [Supporting Dyslexia in the Programming Classroom](https://www.sciencedirect.com/science/article/pii/S1877050914000489) [Accessed: 2021-02-12

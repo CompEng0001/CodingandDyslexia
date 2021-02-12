@@ -11,7 +11,7 @@ This repo is collate coding support for those who have neurodiversity (dyslexia,
 ## Actual assistive technologies / techniques
  - [Supporting Dyslexia in the Programming Classroom](https://www.sciencedirect.com/science/article/pii/S1877050914000489) [Accessed: 2021-02-12
  - [Have Dyslexia? Make Coding Easier In Visual Studio Code](https://dev.to/deadlybyte/have-dyslexia-make-coding-easier-in-visual-studio-code-4kmg) [Accessed: 2021-02-12] 
- 
+ - [Coding with Dyslexia, Making it easier in Visual Studio Code](https://medium.com/@luke.skelhorn/coding-with-dyslexia-making-it-easier-in-visual-studio-code-eeeb1dbb7bfc)
 ## IDEs which support Semantic Highlighting 
 
  - [Scala IDE for eclipse](http://scala-ide.org/docs/current-user-doc/features/typingviewing/semantic-highlighting/index.html) [Accessed: 2021-02-12] 

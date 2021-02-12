@@ -16,6 +16,7 @@ This repo is collate coding support for those who have neurodiversity (dyslexia,
  - [Have Dyslexia? Make Coding Easier In Visual Studio Code](https://dev.to/deadlybyte/have-dyslexia-make-coding-easier-in-visual-studio-code-4kmg) [Accessed: 2021-02-12] 
  - [Coding with Dyslexia, Making it easier in Visual Studio Code](https://medium.com/@luke.skelhorn/coding-with-dyslexia-making-it-easier-in-visual-studio-code-eeeb1dbb7bfc)
  - [Tabnine AI_support_for_coding](https://www.tabnine.com/)
+ - [Dyslexic Friendly Fonts](https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide#:~:text=Readable%20fonts,may%20request%20a%20larger%20font.)
  
 ## IDEs which support Semantic Highlighting 
 

@@ -18,6 +18,7 @@ This repo is collate coding support for those who have neurodiversity (dyslexia,
  - [Tabnine AI_support_for_coding](https://www.tabnine.com/)
  - [Dyslexic Friendly Fonts](https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide#:~:text=Readable%20fonts,may%20request%20a%20larger%20font.)
  - [Font Swithing VS Code](https://marketplace.visualstudio.com/items?itemName=evan-buss.font-switcher#:~:text=Static%20Font%20Switcher,preview%20menu%20breaks%20existing%20functionality.&text=Simply%20open%20the%20command%20pallete,P%20and%20select%20Switch%20Font%20.)
+ - [Font Anonymous Pro](https://fonts.google.com/specimen/Anonymous+Pro?preview.text_type=custom&sidebar.open=true&selection.family=Anonymous+Pro)
  
 ## IDEs which support Semantic Highlighting 
 

@@ -1,6 +1,8 @@
 # Coding and Dyslexia
 This repo is collate coding support for those who have neurodiversity (dyslexia, ADHD etc), 
 
+## Notes
+ - [OpenDyslexic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5629233/) has shown that it may not work for all dyslexics.
 
 ## Supporting Articles
  - [What we can do in workshops to help people with dyslexia](https://datacarpentry.org/blog/2017/09/coding-and-dyslexia) [Accessed: 2021-02-12]
@@ -13,6 +15,7 @@ This repo is collate coding support for those who have neurodiversity (dyslexia,
  - [Have Dyslexia? Make Coding Easier In Visual Studio Code](https://dev.to/deadlybyte/have-dyslexia-make-coding-easier-in-visual-studio-code-4kmg) [Accessed: 2021-02-12] 
  - [Coding with Dyslexia, Making it easier in Visual Studio Code](https://medium.com/@luke.skelhorn/coding-with-dyslexia-making-it-easier-in-visual-studio-code-eeeb1dbb7bfc)
  - [Tabnine AI_support_for_coding](https://www.tabnine.com/)
+ 
 ## IDEs which support Semantic Highlighting 
 
  - [Scala IDE for eclipse](http://scala-ide.org/docs/current-user-doc/features/typingviewing/semantic-highlighting/index.html) [Accessed: 2021-02-12] 
